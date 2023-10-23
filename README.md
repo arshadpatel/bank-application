@@ -48,18 +48,18 @@ Upon successful login, you can access the following features:
 
 ## Screenshots
 
-![001](Images/001.png)<br>
-![002](Images/002.png)<br>
-![003](Images/003.png)<br>
-![004](Images/004.png)<br>
-![005](Images/005.png)<br>
-![006](Images/006.png)<br>
-![007](Images/007.png)<br>
-![008](Images/008.png)<br>
-![009](Images/009.png)<br>
-![010](Images/010.png)<br>
-![011](Images/011.png)<br>
-![012](Images/012.png)<br>
+![001](Images/001.png)<br><br>
+![002](Images/002.png)<br><br>
+![003](Images/003.png)<br><br>
+![004](Images/004.png)<br><br>
+![005](Images/005.png)<br><br>
+![006](Images/006.png)<br><br>
+![007](Images/007.png)<br><br>
+![008](Images/008.png)<br><br>
+![009](Images/009.png)<br><br>
+![010](Images/010.png)<br><br>
+![011](Images/011.png)<br><br>
+![012](Images/012.png)<br><br>
 
 ## Note
 
